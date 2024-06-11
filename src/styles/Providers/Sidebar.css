@@ -1,0 +1,13 @@
+.main {
+    background-color: #fff;
+    color: black;
+    position: fixed;
+    top: 12%;
+    left:0;
+    bottom:0;
+    width: 22%;
+    padding: 1% 2%;
+    overflow: auto;
+
+}
+

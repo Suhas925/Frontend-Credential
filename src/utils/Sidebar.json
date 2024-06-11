@@ -1,0 +1,93 @@
+[
+    {
+        "title": "Personal Info",
+        "icon": "bi-person-fill",
+        "childrens": [
+            {
+                "title": "Profile Setup",
+                "icon": "bi-dot",
+                "path": "#profile-setup"
+            },
+            {
+                "title": "Names",
+                "icon": "bi-dot",
+                "path": "#names"
+            },
+            {
+                "title": "Address",
+                "icon": "bi-dot",
+				"path": "#address"
+            },
+            {
+                "title": "Contact Info",
+                "icon": "bi-dot",
+				"path": "#contact-info"
+            },
+			{
+				"title": "PINs",
+				"icon": "bi-dot",
+				"path": "#pins"
+			},
+			{
+				"title": "Demographics",
+				"icon": "bi-dot",
+				"path": "#demographics"
+			},
+			{
+				"title": "Languages",
+				"icon": "bi-dot",
+				"path": "#languages"
+			}
+        ]
+    },
+    {
+        "title": "Educational & Professional Trainings",
+        "icon": "bi-mortarboard-fill",
+		"path": "/education"
+    },
+    {
+        "title": "Professional ID's",
+        "icon": "bi-briefcase-fill",
+		"path": "/professional-ids"
+    },
+    {
+        "title": "Specialities",
+        "icon": "bi-bookmark-star",
+		"path": "/specialities"
+    },
+    {
+        "title": "Practice Locations",
+        "icon": "bi-geo-alt-fill",
+        "path": "/practice-locations"
+    },
+    {
+        "title": "Hostpital Affiliations",
+        "icon": "bi-hospital-fill",
+        "path": "/hospital-affiliations"
+    },
+	{
+		"title": "Credentialing Contacts",
+		"icon": "bi-person-rolodex",
+		"path": "/credentialing-contacts"
+	},
+	{
+		"title": "Professional Liability Insurance",
+		"icon": "bi-shield-fill-plus",
+		"path": "/professional-liability"
+	},
+	{
+		"title": "Employment Info",
+		"icon": "bi-info-circle-fill",
+		"path": "/employment-info"
+	},
+	{
+		"title": "Professional References",
+		"icon": "bi-person-circle",
+		"path": "/professional-references"
+	},
+	{
+		"title": "Disclosure",
+		"icon": "bi-file-earmark-text-fill",
+		"path": "/disclosure"
+	}
+]
